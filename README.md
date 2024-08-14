@@ -38,7 +38,7 @@ D – Oauth API returns the token (including refresh token) to the app
 
 Clone this project or download it. It's recommended to install [GitHub desktop](https://desktop.github.com/). To clone it via command line, use the following (**Terminal** on MacOSX/Linux, **Git Shell** on Windows):
 
-    git clone https://github.com/joaomartins-callmejohn/aps-pkce-desktop-app
+    git clone https://github.com/joaomartins-callmejohn/aps-pkce-cli
 
 **Visual Studio** (Windows):
 
